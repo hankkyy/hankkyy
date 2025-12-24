@@ -62,7 +62,16 @@ A full-featured REST backend with authentication and role management.
 - 🧱 Designed **layered architecture** (controller/service/repository)
 - 🗄️ Used **H2/MySQL** for persistence  
 **Tech:** Java, Spring Boot, JPA, H2/MySQL  
-➡️ Repo: *(add link)*
+
+---
+
+### 🔐 MITRE Embedded Capture-the-Flag (CTF)
+Reverse-engineered embedded firmware and developed targeted exploits in a competitive security challenge.  
+- 🧩 Identified and exploited vulnerabilities in embedded systems  
+- 🚀 Advanced to the **Attack Phase** among national competitors  
+- 🛡️ Strengthened understanding of low-level systems and cybersecurity  
+
+**Tech:** Embedded Systems, Reverse Engineering, Cybersecurity  
 
 ---
 
@@ -71,28 +80,15 @@ Backend project focused on clean data modeling and business logic.
 - 🛒 Order + cart management  
 - 🗂️ Database schema design & SQL queries  
 **Tech:** Java, MySQL  
-➡️ Repo: *(add link)*
 
 ---
 
 ### 📌 Tag Cloud Generator
-An algorithm-focused project analyzing word frequency efficiently.  
+An algorithm-focused project analysing word frequency efficiently.  
 **Tech:** Java, Data Structures  
-➡️ Repo: *(add link)*
 
 ---
 
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hankkyy&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hankkyy&layout=compact" />
-</p>
-
----
 
 ## ✨ What I’m Learning Next
 
