@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://github.com/hankkyy"><img src="https://img.shields.io/badge/GitHub-hankkyy-black?logo=github"></a>
   <a href="mailto:hank.zihao@gmail.com"><img src="https://img.shields.io/badge/Email-hank.zihao%40gmail.com-blue?logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/hankzhang-ky"><img src="https://img.shields.io/badge/LinkedIn-Hank%20Zhang-0A66C2?logo=linkedin"></a>
 </p>
 
 ---
@@ -104,6 +105,9 @@ An algorithm-focused project analyzing word frequency efficiently.
 ## 📬 Contact
 
 📧 Email: **hank.zihao@gmail.com**  
-🔗 GitHub: **https://github.com/hankkyy**
+🔗 LinkedIn: **https://www.linkedin.com/in/hankzhang-ky**  
+💻 GitHub: **https://github.com/hankkyy**
+
+
 
 > Always happy to connect, learn, and collaborate! 🚀
