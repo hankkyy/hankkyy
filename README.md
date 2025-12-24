@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Zihao Zhang (Hank)</h1>
+<h1 align="center">👋 Hi, I'm Zihao(Hank) Zhang </h1>
 
 <p align="center">
   🎓 CS @ The Ohio State University &nbsp;•&nbsp; 💻 Backend Enthusiast &nbsp;•&nbsp; 🚀 SWE Intern Seeker (Summer 2026)
@@ -8,8 +8,8 @@
   <a href="https://github.com/hankkyy"><img src="https://img.shields.io/badge/GitHub-hankkyy-black?logo=github"></a>
   <a href="mailto:hank.zihao@gmail.com"><img src="https://img.shields.io/badge/Email-hank.zihao%40gmail.com-blue?logo=gmail"></a>
   <a href="https://www.linkedin.com/in/hankzhang-ky">
-    <img src="https://img.shields.io/badge/LinkedIn-Hank%20Zhang-0A66C2?logo=linkedin&logoColor=white">
-  </a>
+  <img src="https://img.shields.io/badge/-Hank%20Zhang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </p>
 
 
@@ -24,6 +24,7 @@
 - 🎯 Goal: grow into a strong backend engineer who writes clean & reliable code
 
 ---
+
 
 ## 🛠️ Tech Stack
 
@@ -60,6 +61,7 @@
 </p>
 
 ---
+
 
 ## 🌟 Featured Projects
 
@@ -104,6 +106,7 @@ An algorithm-focused project analysing word frequency efficiently.
 - ☁️ Docker + backend deployment basics  
 
 ---
+
 
 ## 📬 Contact
 
