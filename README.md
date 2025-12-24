@@ -8,8 +8,9 @@
   <a href="https://github.com/hankkyy"><img src="https://img.shields.io/badge/GitHub-hankkyy-black?logo=github"></a>
   <a href="mailto:hank.zihao@gmail.com"><img src="https://img.shields.io/badge/Email-hank.zihao%40gmail.com-blue?logo=gmail"></a>
   <a href="https://www.linkedin.com/in/hankzhang-ky">
-  <img src="https://img.shields.io/badge/-Hank%20Zhang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-hankzhang--ky-0A66C2?style=flat&logo=linkedin&logoColor=white">
 </a>
+
 </p>
 
 
