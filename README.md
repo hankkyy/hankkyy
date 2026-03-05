@@ -109,6 +109,19 @@
 
 ## 🌟 Featured Projects
 
+### 📌 RAG Knowledge Assistant (In Progress)
+
+A document Q&A assistant using retrieval-augmented generation.
+
+- 🧠 Built a **LangChain-based RAG pipeline**
+- 🧩 Generated embeddings via **DashScopeEmbeddings**
+- 🔁 Integrated **ChromaDB vector search** and optional **Ollama local inference**
+
+**Tech:** Python, LangChain, DashScope (Tongyi/Qwen), ChromaDB, Ollama
+
+
+---
+
 ### 📌 Blackhorse Rating (hm-dianping)
 A high-concurrency local review platform focusing on caching and consistency.  
 - ⚡ Implemented Redis caching strategies for hot data and common failure modes  
@@ -133,18 +146,7 @@ Backend system supporting core food delivery workflows.
 
 ---
 
-### 📌 RAG Knowledge Assistant (In Progress)
 
-A document Q&A assistant using retrieval-augmented generation.
-
-- 🧠 Built a **LangChain-based RAG pipeline**
-- 🧩 Generated embeddings via **DashScopeEmbeddings**
-- 🔁 Integrated **ChromaDB vector search** and optional **Ollama local inference**
-
-**Tech:** Python, LangChain, DashScope (Tongyi/Qwen), ChromaDB, Ollama
-
-
----
 
 ### 🔐 MITRE Embedded Capture-the-Flag (CTF)
 
