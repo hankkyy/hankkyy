@@ -109,7 +109,7 @@
 
 ## 🌟 Featured Projects
 
-### 📌 RAG Knowledge Assistant (In Progress)
+### 📌 RAG-Based Customer Support Agent for Robot Vacuum Products
 
 A document Q&A assistant using retrieval-augmented generation.
 
