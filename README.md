@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Zihao(Hank) Zhang </h1>
+<h1 align="center">👋 Hi, I'm Zihao Zhang </h1>
 
 <p align="center">
   🎓 CS @ The Ohio State University &nbsp;•&nbsp; 💻 Backend Enthusiast &nbsp;•&nbsp; 🚀 SWE Intern Seeker (Summer/Fall 2026)
