@@ -1,165 +1,144 @@
-<h1 align="center">👋 Hi, I'm Zihao Zhang</h1>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=1000&color=F7B538&center=true&vCenter=true&width=600&lines=Zihao+%22Hank%22+Zhang;Backend+Engineer;%F0%9F%8F%9B%EF%B8%8F+Builder+%40+Eastwood;%F0%9F%8F%A5+Intern+%40+UniMed" alt="Typing SVG" />
+
+<p>
+  <samp>
+    CS @ Ohio State &nbsp;·&nbsp; Backend & Data Infra &nbsp;·&nbsp; Open Source Contributor
+  </samp>
+</p>
+
+<a href="https://hankzhang.us"><img src="https://img.shields.io/badge/blog-hankzhang.us-FF7139?style=flat&logo=rss&logoColor=white&labelColor=2d2d2d"></a>
+<a href="mailto:hank.zihao@gmail.com"><img src="https://img.shields.io/badge/email-hank.zihao%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=2d2d2d"></a>
+<a href="https://www.linkedin.com/in/hankzhang-ky"><img src="https://img.shields.io/badge/linkedin-hankzhang--ky-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=2d2d2d"></a>
+<a href="https://github.com/hankkyy"><img src="https://img.shields.io/badge/github-hankkyy-181717?style=flat&logo=github&logoColor=white&labelColor=2d2d2d"></a>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=hankkyy&show_icons=true&hide_title=true&hide_border=true&theme=gruvbox&bg_color=00000000&title_color=F7B538&icon_color=F7B538&text_color=aaaaaa&ring_color=F7B538&hide=stars&count_private=true" height="150">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hankkyy&hide_border=true&theme=gruvbox&background=00000000&stroke=F7B538&ring=F7B538&fire=F7B538&currStreakLabel=F7B538&currStreakNum=ffffff&sideNums=aaaaaa&sideLabels=aaaaaa&dates=666666" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hankkyy&layout=compact&hide_border=true&theme=gruvbox&bg_color=00000000&title_color=F7B538&text_color=aaaaaa&hide=html,css,ruby,assembly,makefile&langs_count=6" height="150">
+
+<br><br>
+
+</div>
+
+---
+
+### 🧰 Tech I Work With
 
 <p align="center">
-  🎓 CS @ The Ohio State University (2023–2027) &nbsp;•&nbsp; 💻 Backend Engineer &nbsp;•&nbsp; 🏥 Intern @ China Unicom (UniMed)
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=2d2d2d">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2d2d2d">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2d2d2d">
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=databricks&logoColor=white&labelColor=2d2d2d">
+  <br>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=2d2d2d">
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=apache&logoColor=white&labelColor=2d2d2d">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=2d2d2d">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=2d2d2d">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2d2d2d">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=2d2d2d">
+  <br>
+  <img src="https://img.shields.io/badge/Apache%20Doris-2266EE?style=for-the-badge&logo=apache&logoColor=white&labelColor=2d2d2d">
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=2d2d2d">
+  <img src="https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white&labelColor=2d2d2d">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=2d2d2d">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2d2d2d">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=2d2d2d">
+  <br>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=2d2d2d">
+  <img src="https://img.shields.io/badge/ChromaDB-111111?style=for-the-badge&logo=databricks&logoColor=white&labelColor=2d2d2d">
+  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white&labelColor=2d2d2d">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=2d2d2d">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=2d2d2d">
 </p>
+
+---
+
+### 📌 Featured
 
 <p align="center">
-  <a href="https://github.com/hankkyy"><img src="https://img.shields.io/badge/GitHub-hankkyy-black?logo=github"></a>
-  <a href="mailto:hank.zihao@gmail.com"><img src="https://img.shields.io/badge/Email-hank.zihao%40gmail.com-blue?logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/hankzhang-ky"><img src="https://img.shields.io/badge/LinkedIn-hankzhang--ky-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://hankzhang.us"><img src="https://img.shields.io/badge/Blog-hankzhang.us-FF7139?logo=rss&logoColor=white"></a>
+<table>
+<tr>
+<td width="50%">
+<h4 align="center">🏛️ Eastwood Auction</h4>
+<p align="center">
+  Full-stack antique auction platform<br>
+  <sub>Next.js · Supabase · SwiftUI · eBay API</sub>
+</p>
+<p align="center">
+  <a href="https://github.com/hankkyy/EastWood-Auction"><img src="https://img.shields.io/badge/code-181717?style=flat&logo=github&logoColor=white&labelColor=2d2d2d"></a>
+  <a href="https://eastwoodauction.vercel.app"><img src="https://img.shields.io/badge/live-000000?style=flat&logo=vercel&logoColor=white&labelColor=2d2d2d"></a>
+</p>
+</td>
+<td width="50%">
+<h4 align="center">📊 UniMed Data Platform</h4>
+<p align="center">
+  Data infrastructure for digital medical<br>
+  <sub>Java · Spring Boot · Doris · Flink · Kafka</sub>
+</p>
+<p align="center">
+  <sub>🏥 Intern @ China Unicom</sub>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h4 align="center">📝 纵横四海 Blog</h4>
+<p align="center">
+  129+ articles on backend & databases<br>
+  <sub>Python · Static Site · Vercel</sub>
+</p>
+<p align="center">
+  <a href="https://hankzhang.us"><img src="https://img.shields.io/badge/read-FF7139?style=flat&logo=rss&logoColor=white&labelColor=2d2d2d"></a>
+  <a href="https://github.com/hankkyy/myblog"><img src="https://img.shields.io/badge/code-181717?style=flat&logo=github&logoColor=white&labelColor=2d2d2d"></a>
+</p>
+</td>
+<td width="50%">
+<h4 align="center">🤖 Hermes Agent</h4>
+<p align="center">
+  Open-source AI agent framework<br>
+  <sub>Python · MCP · Plugin System · TUI</sub>
+</p>
+<p align="center">
+  <a href="https://github.com/NousResearch/hermes-agent"><img src="https://img.shields.io/badge/contribute-181717?style=flat&logo=github&logoColor=white&labelColor=2d2d2d"></a>
+</p>
+</td>
+</tr>
+</table>
 </p>
 
+<details>
+<summary><samp>📂 more projects</samp></summary>
+<p align="center">
+
+**Blackhorse Rating** · High-concurrency review platform · Java · Spring Boot · Redis · Redisson
+<br>
+**Sky-Take-Out** · Food delivery backend · Java · Spring Boot · MyBatis-Plus · JWT
+<br>
+**RAG Support Agent** · Document Q&A with LangChain + ChromaDB · Python
+<br>
+**MITRE eCTF** · Embedded security competition (Attack Phase) · C · Python
+<br>
+**Apache Doris** · Chinese documentation translation contributor
+
+</p>
+</details>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-- 🎓 Senior (4th year) in **Computer Science & Engineering @ The Ohio State University**
-- 🏥 **Backend Engineer Intern @ China Unicom Digital Intelligence Medical Technology (UniMed)** — building data platform services with **Java, Spring Boot, Apache Doris, Kafka, Flink**
-- 🧑‍💻 Previously: **OSU Tech Analyst** — supported campus-wide IT infrastructure and technical operations
-- 🌐 Run a tech blog at **[hankzhang.us](https://hankzhang.us)** — 129+ articles on backend engineering, databases, and system design
-- 🏛️ Building **[Eastwood Auction](https://github.com/hankkyy/EastWood-Auction)** — a full-stack antique auction platform with multi-language support and eBay integration
-- 🤖 Active contributor to **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** — an open-source AI agent framework
-- 🌍 Contributed Chinese translations to **[Apache Doris](https://github.com/apache/doris)** documentation
+### 🌍 Open Source
 
+<samp>
+  <a href="https://github.com/apache/doris">Apache Doris</a> docs translation &nbsp;·&nbsp;
+  <a href="https://github.com/NousResearch/hermes-agent">Hermes Agent</a> contributor
+</samp>
 
----
+<br><br>
 
-## 🛠️ Tech Stack
+<img src="https://komarev.com/ghpvc/?username=hankkyy&color=F7B538&style=flat&label=visitors" alt="visitors" />
 
-### 🔹 Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-000000?logo=databricks&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
-</p>
-
-### 🔹 Backend & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/MyBatis-000000?logo=apache&logoColor=white">
-  <img src="https://img.shields.io/badge/MyBatis--Plus-000000?logo=apache&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white">
-</p>
-
-### 🔹 Databases & Data Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache%20Doris-2266EE?logo=apache&logoColor=white">
-  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?logo=apacheflink&logoColor=white">
-</p>
-
-### 🔹 AI / LLM
-<p>
-  <img src="https://img.shields.io/badge/LangChain-000000?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/RAG-000000?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/ChromaDB-111111?logo=databricks&logoColor=white">
-  <img src="https://img.shields.io/badge/MCP-000000?logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Ollama-111111?logo=ollama&logoColor=white">
-</p>
-
-### 🔹 DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white">
-</p>
-
-
----
-
-## 🌟 Featured Projects
-
-### 🏛️ Eastwood Auction — Antique Auction Platform
-A full-stack luxury antique auction platform with real-time bidding, multi-language support, and eBay integration.
-
-- 🎨 Built with **Next.js + Supabase** for the web frontend and PostgreSQL backend
-- 📱 Companion **iOS SwiftUI app** for mobile browsing and bidding
-- 🔗 Integrated **eBay API** for cross-platform inventory sync and price enrichment
-- 🌐 Full **i18n support** for global antique buyers (EN/ZH/JP)
-- ⏱️ Automated data pipeline via **GitHub Actions** cron jobs for price history tracking
-
-**Tech:** TypeScript, Next.js, Swift/SwiftUI, Supabase, PostgreSQL, eBay API
-
-
-### 📊 UniMed Data Platform
-Backend data infrastructure for China Unicom's digital medical division.
-
-- 🏗️ Built data ingestion & processing pipelines with **Apache Flink & Kafka**
-- 🗄️ Designed OLAP schemas and real-time analytics with **Apache Doris**
-- 🔧 Developed backend services with **Java + Spring Boot + MyBatis-Plus**
-
-**Tech:** Java, Spring Boot, Apache Doris, Flink, Kafka, MySQL, Redis
-
-
-### 📌 Blackhorse Rating (hm-dianping)
-A high-concurrency local review platform focused on caching strategies and distributed consistency.
-
-- ⚡ Implemented **Redis caching** with cache-aside and write-through patterns to handle hot data at scale
-- 🔒 Built voucher flash-sale logic using **Redisson distributed locks** to prevent overselling under high concurrency
-- 🪪 Designed token-based authentication with Redis-backed session management
-
-**Tech:** Java, Spring Boot, MyBatis, Redis, Redisson, MySQL
-
-
-### 📌 Sky-Take-Out (Food Delivery System)
-Backend system supporting core food delivery workflows.
-
-- 🍱 Built RESTful APIs for menu, cart, and order management modules
-- 🔐 Implemented **JWT authentication** with role-based access control
-- ✅ Ensured transactional consistency for multi-step order processing
-
-**Tech:** Java, Spring Boot, MyBatis-Plus, MySQL, JWT
-
-
-### 🤖 RAG-Based Customer Support Agent
-A document Q&A assistant using retrieval-augmented generation for robot vacuum products.
-
-- 🧠 Built a **LangChain-based RAG pipeline** with document chunking and semantic retrieval
-- 🔁 Integrated **ChromaDB vector search** with optional **Ollama local inference**
-- 🧩 Used **DashScope (Tongyi/Qwen)** embeddings for Chinese-language document understanding
-
-**Tech:** Python, LangChain, DashScope, ChromaDB, Ollama
-
-
-### 🔐 MITRE Embedded CTF (eCTF)
-Competed in a hardware/embedded security challenge — reverse-engineered firmware and developed exploits.
-
-- 🧩 Identified vulnerabilities in embedded systems through reverse engineering
-- 🚀 Advanced to the **Attack Phase** (top-performing teams)
-- 🛡️ Strengthened low-level systems and cybersecurity fundamentals
-
-**Tech:** C, Python, Embedded Systems, Reverse Engineering
-
-
----
-
-## 📝 Open Source Contributions
-
-- 🌍 **Apache Doris** — Chinese documentation translation contributor
-  <br><sub>Help bring real-time analytical database documentation to Chinese-speaking developers</sub>
-- 🤖 **Hermes Agent** (NousResearch) — active contributor
-  <br><sub>Open-source AI agent framework with multi-platform gateway, TUI, and plugin system</sub>
-
-
----
-
-## 📬 Connect With Me
-
-- 📧 **hank.zihao@gmail.com**
-- 💼 **[linkedin.com/in/hankzhang-ky](https://www.linkedin.com/in/hankzhang-ky)**
-- 🌐 **[hankzhang.us](https://hankzhang.us)** — tech blog (129+ posts)
-- 💻 **[github.com/hankkyy](https://github.com/hankkyy)**
-
-> Building reliable backend systems, one commit at a time 🚀
+</div>
