@@ -15,7 +15,7 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hankkyy&show_icons=true&hide_title=true&hide_border=true&theme=gruvbox&bg_color=00000000&title_color=F7B538&icon_color=F7B538&text_color=aaaaaa&ring_color=F7B538&hide=stars,rank&count_private=true" height="150">
+<img src="https://github-readme-stats.vercel.app/api?username=hankkyy&show_icons=true&hide_title=true&hide_border=true&theme=gruvbox&bg_color=00000000&title_color=F7B538&icon_color=F7B538&text_color=aaaaaa&ring_color=F7B538&hide=stars&rank_icon=hidden&count_private=true" height="150">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=hankkyy&hide_border=true&theme=gruvbox&background=00000000&stroke=F7B538&ring=F7B538&fire=F7B538&currStreakLabel=F7B538&currStreakNum=ffffff&sideNums=aaaaaa&sideLabels=aaaaaa&dates=666666" height="150">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hankkyy&layout=compact&hide_border=true&theme=gruvbox&bg_color=00000000&title_color=F7B538&text_color=aaaaaa&hide=html,css,ruby,assembly,makefile,c,zig&langs_count=6" height="150">
 
